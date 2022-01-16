@@ -1,6 +1,6 @@
 <?php
 
-namespace MultiplesOfThreeOrFive;
+namespace Multiples;
 
 use PHPUnit\Framework\TestCase;
 
@@ -10,7 +10,7 @@ use PHPUnit\Framework\TestCase;
  *
  * Find the sum of all the multiples of 3 or 5 below 1000.
  */
-class MultiplesOf3or5Test extends TestCase
+class MultiplesTest extends TestCase
 {
     /** @test */
     public function it_calculates_the_sum_of_multiples_of_3_or_5_below_10()

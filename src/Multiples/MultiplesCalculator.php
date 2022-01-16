@@ -1,6 +1,6 @@
 <?php
 
-namespace MultiplesOfThreeOrFive;
+namespace Multiples;
 
 class MultiplesCalculator
 {
